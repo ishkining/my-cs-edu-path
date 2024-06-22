@@ -1,1 +1,2 @@
-# my-cs-edu-path
+# My ultimate path into become a strong developer
+
